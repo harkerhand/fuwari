@@ -1,7 +1,6 @@
 ---
 title: 基于Twikoo的博客评论搭建
 published: 2024-03-03
-description: 本文介绍如何基于Twikoo搭建博客评论系统。
 image: ./基于Twikoo的博客评论搭建/twikoo.png
 tags: [Blog]
 category: 经验分享

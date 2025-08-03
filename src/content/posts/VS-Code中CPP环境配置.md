@@ -1,7 +1,6 @@
 ---
 title: VS Code中C++环境配置
 published: 2023-03-12
-description: 本文介绍如何在VS Code中配置C++环境。
 image: ./VS-Code中CPP环境配置/vscpp.png
 tags: [C++, VS Code]
 category: 经验分享

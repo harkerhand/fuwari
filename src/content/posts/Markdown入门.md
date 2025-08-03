@@ -1,7 +1,6 @@
 ---
 title: Markdown入门
 published: 2023-03-10
-description: 本文介绍Markdown基本语法。
 image: ""
 tags: [Markdown]
 category: 经验分享

@@ -1,7 +1,6 @@
 ---
 title: Hexo提交百度搜索引擎收录
 published: 2023-03-14
-description: 本文介绍如何将Hexo博客提交到百度搜索引擎收录。
 image: ./Hexo提交百度搜索引擎收录/hexo_baidu.jpg
 tags: [Hexo, 百度]
 category: 经验分享

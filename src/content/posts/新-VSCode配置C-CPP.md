@@ -1,7 +1,6 @@
 ---
 title: '[新]VSCode配置C/CPP'
 published: 2024-09-19
-description: 本文介绍如何在新版VSCode中配置C/C++环境。
 image: ./新-VSCode配置C-CPP/cpp.png
 tags: [C++]
 category: 经验分享

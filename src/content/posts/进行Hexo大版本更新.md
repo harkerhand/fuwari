@@ -1,7 +1,6 @@
 ---
 title: 进行Hexo大版本更新
 published: 2024-03-04
-description: 本文介绍如何进行Hexo大版本更新。
 image: ./进行Hexo大版本更新/hexo.png
 tags: [Blog]
 category: 经验分享

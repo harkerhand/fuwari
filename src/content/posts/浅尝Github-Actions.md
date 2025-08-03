@@ -1,7 +1,6 @@
 ---
 title: 浅尝Github Actions
 published: 2024-03-02
-description: 本文介绍如何使用Github Actions进行自动化打包。
 image: ./浅尝Github-Actions/github_actions.png
 tags: [git, github]
 category: 经验分享

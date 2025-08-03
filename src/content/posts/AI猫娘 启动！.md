@@ -1,7 +1,6 @@
 ---
 title: 'AI猫娘 启动！'
 published: 2025-03-19
-description: 本文介绍如何使用NcatBot搭建AI猫娘。
 image: ./AI猫娘 启动！/logo.png
 tags: [Python, NCatBot]
 category: 经验分享

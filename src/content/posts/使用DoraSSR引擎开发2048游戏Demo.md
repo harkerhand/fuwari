@@ -1,7 +1,6 @@
 ---
 title: 使用DoraSSR引擎开发2048游戏Demo
 published: 2024-08-11
-description: 本文介绍如何使用DoraSSR引擎开发2048游戏Demo。
 image: ./使用DoraSSR引擎开发2048游戏Demo/logo.png
 tags: [Lua, DoraSSR]
 category: 经验分享

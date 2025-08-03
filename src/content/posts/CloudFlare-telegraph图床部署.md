@@ -1,7 +1,6 @@
 ---
 title: CloudFlare+telegraph图床部署
 published: 2024-03-03
-description: 本文介绍如何使用CloudFlare和telegraph部署图床。
 image: https://image.harkerhand.cn/file/5d0e3cb00e7e03672e347.png
 tags: [Blog, 图床]
 category: 经验分享

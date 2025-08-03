@@ -1,7 +1,6 @@
 ---
 title: Decorate your VS Code like a Pro
 published: 2025-03-08
-description: 本文介绍如何像专业人士一样装饰你的VS Code。
 image: ./Decorate-your-VS-Code-like-a-Pro/logo.png
 tags: [IDE]
 category: 经验分享
