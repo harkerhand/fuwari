@@ -49,6 +49,11 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://github.com/harkerhand", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
+		{
+			name: "Music",
+			url: "https://music.163.com/#/artist?id=46840359",
+			external: true, // Show an external link icon and will open in a new tab
+		},
 	],
 };
 
